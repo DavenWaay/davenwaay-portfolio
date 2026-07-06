@@ -97,7 +97,7 @@ export default function MainContent() {
                     </h1>
                     
                     <p className={styles.heroSubtitle}>
-                        A 4th Year BSIT Student. I build web and mobile applications, handle databases, and design intuitive user interfaces.</p>
+                        A 4th Year BSIT graduate. I build web and mobile applications, handle databases, and design intuitive user interfaces.</p>
                     
                     <div className={styles.buttonGroup}>
                         <a
