@@ -340,7 +340,7 @@ export default function MainContent() {
                         <p className={styles.projectDescription}>
                           A web application for Honda Cars Dasmariñas that showcases vehicles with detailed specs and downloadable brochures, while enabling customers to book PMS and diagnostic services online for a seamless dealership experience.
                         </p>
-                        <a className={styles.projectLink} href="https://www.hondacarsdasmarinas.com/" target="_blank" rel="noopener noreferrer">
+                        <a className={styles.projectLink} href="https://davenwaay.github.io/honda-dasma-website-static/" target="_blank" rel="noopener noreferrer">
                             <span className={styles.projectLinkIcon} aria-hidden="true">
                                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                                     <path d="M14 3h7v7"></path>
