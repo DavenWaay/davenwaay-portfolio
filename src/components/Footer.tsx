@@ -6,7 +6,7 @@ export default function Footer() {
             <div className={styles.inner}>
                 <div className={styles.profile}>
                     <p className={styles.name}>Daven H, Waay.</p>
-                    <p className={styles.role}>BSIT 4th Year Student</p>
+                    <p className={styles.role}>BS in Information Technology Graduate</p>
                     <p className={styles.school}>Cavite State University Imus Campus</p>
                     <p className={styles.summary}>
                         Like what you see? Contact me and Let's build something amazing together.
